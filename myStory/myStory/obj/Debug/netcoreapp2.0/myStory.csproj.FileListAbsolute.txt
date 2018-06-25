@@ -1,0 +1,11 @@
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.deps.json
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.runtimeconfig.json
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.runtimeconfig.dev.json
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.dll
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\bin\Debug\netcoreapp2.0\myStory.pdb
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.csprojAssemblyReference.cache
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.csproj.CoreCompileInputs.cache
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.AssemblyInfoInputs.cache
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.AssemblyInfo.cs
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.dll
+C:\Users\Kimberly Skorcz\source\repos\myStory\myStory\obj\Debug\netcoreapp2.0\myStory.pdb
